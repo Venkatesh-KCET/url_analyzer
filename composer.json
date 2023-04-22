@@ -14,8 +14,7 @@
     "authors": [
         {
             "name": "Venkatesh",
-            "email": "venkatesh.svpr@gmail.com"
-        }
+            "email": "venkatesh.svpr@gmail.com"        }
     ],
     "minimum-stability": "stable"
 }
