@@ -1,17 +1,9 @@
 {
     "name": "venkatesh-kcet/url_analyzer",
-    "description": "Extracts useful data from urls (domain, subdomains, top level ...)",
-    "type": "library",
-    "license": "MIT",
-    "autoload": {
-        "psr-4": {
-            "VenkateshKcet\\UrlAnalyzer\\": "src/"
-        }
-    },
     "authors": [
         {
             "name": "Venkatesh-KCET",
-            "email": "venkatesh.svpr@gmail.com"
+            "email": "76198059+Venkatesh-KCET@users.noreply.github.com"
         }
     ],
     "require": {}
