@@ -2,10 +2,18 @@
     "name": "venkatesh-kcet/url_analyzer",
     "description": "Extracts useful data from urls (domain, subdomains, top level ...)",
     "type": "library",
-    "require": {
-        "sunra/php-simple-html-dom-parser": "^1.5"
-    },
     "license": "MIT",
+    "keywords": [
+        "php",
+        "composer",
+        "composer-package",
+        "url",
+        "analyzer",
+        "Extracts URLS"
+    ],
+    "require": {
+        "php": ">=5.0"
+    },
     "autoload": {
         "psr-4": {
             "VenkateshKcet\\UrlAnalyzer\\": "src/"
@@ -17,5 +25,7 @@
             "email": "venkatesh.svpr@gmail.com"
         }
     ],
-    "minimum-stability": "stable"
+    "minimum-stability": "stable",
+    "prefer-stable": true,
+    "require": {}
 }
